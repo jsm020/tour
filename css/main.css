@@ -482,7 +482,8 @@ header .search-bar-container label:hover {
     padding: .5rem 0;
 }
 
-.review .review-slider {
+
+/* .review .review-slider {
     padding-bottom: 2rem;
 }
 
@@ -515,7 +516,7 @@ header .search-bar-container label:hover {
 .review .box .stars i {
     color: var(--orange);
     font-size: 1.7rem;
-}
+} */
 
 @media (max-width:1200px) {
     html {
