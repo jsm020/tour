@@ -562,6 +562,15 @@ header .search-bar-container label:hover {
     width: 100%;
 }
 
+.brand-container {
+    text-align: center;
+}
+
+.brand-container img {
+    height: 13rem;
+    width: 13rem;
+}
+
 @media (max-width:1200px) {
     html {
         font-size: 55%;
